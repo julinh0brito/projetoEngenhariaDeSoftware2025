@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
+package model; 
 
 public class Matricula {
     private int idMatricula;
