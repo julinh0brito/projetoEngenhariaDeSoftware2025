@@ -1,4 +1,4 @@
-public class Aplicacao {
+public class CtrlPrograma {
     public static void main(String[] args) {
         // Instâncias
         Aluno aluno = new Aluno(1, "Ana Silva", "2024001", "ana@email.com");
